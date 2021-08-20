@@ -294,7 +294,10 @@
 .note-3kmerW textarea:focus {
   background-color: rgba(0,0,0,0.4) !important;
 }
-
+/*server hover muted */
+.colorMuted-HdFt4q {
+  color: white;
+}
 
 
 /* 12. Modals */
