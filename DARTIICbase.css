@@ -4,7 +4,6 @@
 
 /* Variables */
 :root {
-  --theme-version: "1.5";
   --main-color: #16356d;
   --hover-color: #1c4faf;
   --online: #43b581;
@@ -641,7 +640,7 @@ svg[name="Activity"] {
 }
 
 .info-1VyQPT::before {
-  content: var(--theme-name) " " var(--theme-version);
+  content: var(--theme-name);
   font-size: 12px;
   line-height: 16px;
   font-weight: 500;
