@@ -4304,15 +4304,6 @@ foreignObject[mask*="mobile"]::after {
   height: 22px;
 }
 
-.roleRemoveIcon-2-TeGW {
-  display: block;
-  opacity: 0;
-  transition: opacity 200ms ease-in-out;
-  background-color: inherit;
-  height: 20px;
-  width: 22px;
-  left: -22px;
-}
 
 .roleRemoveIcon-2-TeGW path:first-child {
   fill: rgba(0,0,0,.8) !important;
