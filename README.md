@@ -1,0 +1,2 @@
+# DARTIIC
+New BetterDiscord Theme
