@@ -1,0 +1,16 @@
+/**
+* @name DARTIIC
+* @author Dartic2K
+* @description minimalist theme, easy to modify
+* @version 0.1
+*/
+
+@import url('https://monstrousdev.github.io/themes/phoenix-bundle/tranquil.css');
+
+:root {
+  --main-color: #8d2036;
+  --hover-color: #6f182a;
+  --home-color: #eee;
+  --roundness: 50px;
+  --shadow: rgba(0,0,0,.4);
+}
