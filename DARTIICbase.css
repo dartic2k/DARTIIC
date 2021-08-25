@@ -1,7 +1,6 @@
 /* Imports */
 @import "https://fonts.googleapis.com/css?family=Satisfy|Montserrat:300";
-@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css");
-
+@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.cs
 /* Variables */
 :root {
   --main-color: #16356d;
@@ -1718,6 +1717,7 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
 .container-2Thooq {
   height: 53px !important;
   z-index: 1;
+  padding-right:0;
 }
 
 .container-3baos1 .button-14-BFJ {
@@ -1743,8 +1743,8 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
   font-weight: normal;
 }
 
-.container-2Thooq  {
-  padding-right:0;
+.ShowSessions-list-item {
+  background: var(--tertiary-color) !important;
 }
 
   /* 6.d. Listening Along */
