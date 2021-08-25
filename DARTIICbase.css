@@ -3654,10 +3654,6 @@ foreignObject[mask*="mobile"]::after {
 
 
 /* 13. Roundness */
-.guild-1EfMGQ .guildInner-3DSoA4,
-#app-mount foreignObject {
-  border-radius: 0 !important;
-}
 
 .bannerUploader-3AZuN1 .bannerUploaderInnerSquare-1ddxpx {
   border-radius: 0px !important;
