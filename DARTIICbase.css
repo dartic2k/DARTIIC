@@ -1,6 +1,6 @@
 /* Imports */
 @import "https://fonts.googleapis.com/css?family=Satisfy|Montserrat:300";
-@import url("https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.cs
+
 /* Variables */
 :root {
   --main-color: #16356d;
@@ -1742,6 +1742,7 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
   color: inherit;
   font-weight: normal;
 }
+
 
 .ShowSessions-list-item {
   background: var(--tertiary-color) !important;
@@ -3654,6 +3655,10 @@ foreignObject[mask*="mobile"]::after {
 
 
 /* 13. Roundness */
+.guild-1EfMGQ .guildInner-3DSoA4,
+#app-mount foreignObject {
+  border-radius: 0 !important;
+}
 
 .bannerUploader-3AZuN1 .bannerUploaderInnerSquare-1ddxpx {
   border-radius: 0px !important;
