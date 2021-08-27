@@ -1817,7 +1817,10 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
   line-height: 15px;
 }
 
-
+#MemberCount {
+  background-color: var(--primary-color) !important;
+  text-align: center !important;
+}
 
 
 
