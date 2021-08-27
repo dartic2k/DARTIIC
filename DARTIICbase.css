@@ -1809,7 +1809,7 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
   border-image: linear-gradient(90deg, transparent, var(--main-color), transparent);
   border-image-slice: 1;
   padding: 19px 16px 6px 16px;
-  margin: 4px 0px 10px 15px;
+  margin: 4px 25px 10px 15px;
   font-weight: 600;
   text-align: center;
   border-radius: 3px;
