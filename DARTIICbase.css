@@ -5897,6 +5897,12 @@ color: var(--main-color) !important;
   display: none;
 }
 
+
+.member-3-YXUe {
+  position: static !important;
+}
+
+
   /* 20.a. Plugin Optimization */
     /* 20.a.1. BetterFormatting */
 .bf-toolbar:before {
