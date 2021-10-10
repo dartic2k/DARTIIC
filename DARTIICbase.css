@@ -1283,10 +1283,9 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
   transform: none;
 }
 
-
 .circleIconButton-1XqULR {
   box-shadow: 0 10px 15px rgba(0, 0, 0, .4), 0 -1px 0px rgba(0, 0, 0, 0.2) inset, 0 2px 1px rgba(255, 255, 255, 0.2) inset;
-  background-color: var(--main-color);
+  background-color: var(--main-color) !important;
 }
 
 .guilds-1SWlCJ .scrollerWrap-1IAIlv .scroller-1Bvpku>div.container-1ETFDs:first-child .badge-14ZoDd{
