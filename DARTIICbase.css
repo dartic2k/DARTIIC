@@ -1269,13 +1269,13 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
   color: var(--main-color) !important;
 }
 
-  /* 4.c. Guilds Add */
-#app-mount .circleIconButton-1QV--U {
+   /* 4.c. Guilds Add */
+#app-mount .circleIconButton-1XqULR {
   background-color: var(--main-color);
   color: white;
 }
 
-#app-mount .circleIconButton-1QV--U svg {
+#app-mount .circleIconButton-1XqULR svg {
   height: 24px;
   width: 24px;
   position: unset;
@@ -1284,7 +1284,7 @@ border-color: 2px dashed rgba(255, 255, 255, .1);
 }
 
 
-.circleIconButton-1QV--U {
+.circleIconButton-1XqULR {
   box-shadow: 0 10px 15px rgba(0, 0, 0, .4), 0 -1px 0px rgba(0, 0, 0, 0.2) inset, 0 2px 1px rgba(255, 255, 255, 0.2) inset;
   background-color: var(--main-color);
 }
@@ -3654,7 +3654,6 @@ foreignObject[mask*="mobile"]::after {
 
 /* 13. Roundness */
 
-
 .bannerUploader-3AZuN1 .bannerUploaderInnerSquare-1ddxpx {
   border-radius: 0px !important;
 }
@@ -3712,7 +3711,7 @@ foreignObject[mask*="mobile"]::after {
 .voiceSectionIconWrapper-3YFjHm,
 .voiceSectionGuildImage-2r1uIp, 
 .voiceSectionNoGuildImageWrapper-40qwqb,
-.circleIconButton-1QV--U,
+.circleIconButton-1XqULR,
 .guildsError-b7zR5H,
 .base-PmTxvP,
 #app-mount .avatar-3elDyV,
@@ -3723,7 +3722,7 @@ foreignObject[mask*="mobile"]::after {
 #app-mount .wrapper-1BJsBx,
 #app-mount .wrapper-3t9DeA foreignObject .avatar-VxgULZ,
 #app-mount .avatarHint-1qgaV3 foreignObject .avatarHintInner-Dco91E,
-#app-mount .circleIconButton-1QV--U {
+#app-mount .circleIconButton-1XqULR {
   border-radius: var(--roundness) !important;
 }
 
