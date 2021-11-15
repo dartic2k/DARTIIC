@@ -624,7 +624,9 @@ svg[name="Activity"] {
 
 /* 3. User & Server Settings */
   /* 3.a. General Sidebar */
-
+.container-2wlB3z{
+  flex-direction: none;
+}
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN, 
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
   justify-content: flex-start;
